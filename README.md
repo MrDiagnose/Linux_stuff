@@ -6,4 +6,5 @@ vi ~/.bashrc
 write: <b>fortune | cowsay -n </b> </br>
 (-n Disables word wrap)
 
-esc > :wq to save and quit vi
+esc > :wq to save and quit vi </br>
+https://en.wikipedia.org/wiki/Cowsay
