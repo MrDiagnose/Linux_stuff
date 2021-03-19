@@ -1,8 +1,9 @@
 # Linux_stuff
-Simple linux stuff
+
+Simple linux stuff</br>
 vi ~/.bashrc
 
-write: fortune | cowsay -n 
+write: <b>fortune | cowsay -n </b> </br>
 (-n Disables word wrap)
 
 esc > :wq to save and quit vi
